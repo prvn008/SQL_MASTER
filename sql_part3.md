@@ -6,8 +6,8 @@
 </p>
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=SQL+Masterclass+-+Part+2;Exploring+Members+Data;PostgreSQL+%7C+Analytics+%7C+Practice"
-    alt="SQL Part 2"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=SQL+Masterclass+-+Part+3;Exploring+Members+Data;PostgreSQL+%7C+Analytics+%7C+Practice"
+    alt="SQL Part 3"
   />
 </h1>
 

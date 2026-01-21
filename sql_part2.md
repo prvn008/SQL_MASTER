@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge&logo=github" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
+  
 </p>
 
 ---
@@ -23,19 +23,23 @@
 # Step 2 — Exploring The Members Data
 
 <p align="center">
+  <!-- Previous Tutorial -->
   <a href="./sql_part1.md">
     <img
-      src="https://img.shields.io/badge/⬅️%20BACK%20TO%20PART%201-blue?style=for-the-badge&logo=github&color=0:0ea5e9,100:6366f1"
+      src="https://img.shields.io/badge/⬅️%20BACK%20TO%20PART%201-Previous%20Tutorial-blue?style=for-the-badge&logo=github&animated=1"
       alt="Back to Part 1"
     />
   </a>
   &nbsp;&nbsp;
+  <!-- Next Tutorial -->
   <a href="./sql_part3.md">
     <img
-      src="https://img.shields.io/badge/➡️%20GO%20TO%20NEXT%20TUTORIAL-animated?style=for-the-badge&logo=github&color=0:0ea5e9,100:6366f1"
+      src="https://img.shields.io/badge/➡️%20GO%20TO%20NEXT%20TUTORIAL-Next%20Tutorial-green?style=for-the-badge&logo=github&animated=1"
       alt="Go to Next Tutorial"
     />
   </a>
+</p>
+
 
 
 Let's now inspect our `trading.members` table in a bit more depth.

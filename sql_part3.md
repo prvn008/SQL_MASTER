@@ -27,7 +27,7 @@
   <a href="./sql_part2.md">
     <img
       src="https://img.shields.io/badge/⬅️%20BACK%20TO%20PART%201-Previous%20Tutorial-blue?style=for-the-badge&logo=github&animated=1"
-      alt="Back to Part 1"
+      alt="Back to Part 2"
     />
   </a>
   &nbsp;&nbsp;

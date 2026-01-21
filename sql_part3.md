@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- Previous Tutorial -->
-  <a href="./sql_part1.md">
+  <a href="./sql_part2.md">
     <img
       src="https://img.shields.io/badge/⬅️%20BACK%20TO%20PART%201-Previous%20Tutorial-blue?style=for-the-badge&logo=github&animated=1"
       alt="Back to Part 1"
@@ -32,7 +32,7 @@
   </a>
   &nbsp;&nbsp;
   <!-- Next Tutorial -->
-  <a href="./sql_part3.md">
+  <a href="./sql_part4.md">
     <img
       src="https://img.shields.io/badge/➡️%20GO%20TO%20NEXT%20TUTORIAL-Next%20Tutorial-green?style=for-the-badge&logo=github&animated=1"
       alt="Go to Next Tutorial"

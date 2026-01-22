@@ -26,7 +26,7 @@
   <!-- Previous Tutorial (Part 4) -->
   <a href="./sql_part4.md">
     <img
-      src="https://img.shields.io/badge/⬅️%20BACK%20TO%20PART%203-blue?style=for-the-badge&logo=github&animated=1"
+      src="https://img.shields.io/badge/⬅️%20BACK%20TO%20PART%204-blue?style=for-the-badge&logo=github&animated=1"
       alt="Back to Part 4"
     />
   </a>

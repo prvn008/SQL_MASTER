@@ -24,7 +24,7 @@
 
 <p align="center">
   <!-- Previous Tutorial (Part 6) -->
-  <a href="./sql_part5.md">
+  <a href="./sql_part6.md">
     <img
       src="https://img.shields.io/badge/⬅️%20BACK%20TO%20PART%206-blue?style=for-the-badge&logo=github&animated=1"
       alt="Back to Part 6"
